@@ -19,8 +19,8 @@ This is a solution to the [FAQ accordion challenge on Frontend Mentor](https://w
 
 ### Links
 
-- Solution URL: [solution](https://www.frontendmentor.io/solutions/faq-accordion-0KEczeRQPj)
-- Live Site URL: [ive site](https://et-coder.github.io/faq-accordion/)
+- Solution URL: [ Solution](https://www.frontendmentor.io/solutions/faq-accordion-0KEczeRQPj)
+- Live Site URL: [ Live site](https://et-coder.github.io/faq-accordion/)
 
 ## My process
 
