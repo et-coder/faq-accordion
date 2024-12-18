@@ -19,7 +19,7 @@ This is a solution to the [FAQ accordion challenge on Frontend Mentor](https://w
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/faq-accordion-0KEczeRQPj)
 - Live Site URL: [Add live site URL here](https://et-coder.github.io/faq-accordion/)
 
 ## My process
